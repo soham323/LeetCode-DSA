@@ -13,6 +13,7 @@ This repostiory consist practise DSA questions.
 | [0001-two-sum](https://github.com/soham323/LeetCode-DSA/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/soham323/LeetCode-DSA/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/soham323/LeetCode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0136-single-number](https://github.com/soham323/LeetCode-DSA/tree/master/0136-single-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -29,4 +30,8 @@ This repostiory consist practise DSA questions.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/soham323/LeetCode-DSA/tree/master/0014-longest-common-prefix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/soham323/LeetCode-DSA/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
