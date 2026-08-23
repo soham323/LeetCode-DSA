@@ -15,6 +15,7 @@ This repostiory consist practise DSA questions.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/soham323/LeetCode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/soham323/LeetCode-DSA/tree/master/0027-remove-element) |
 | [0136-single-number](https://github.com/soham323/LeetCode-DSA/tree/master/0136-single-number) |
+| [3379-transformed-array](https://github.com/soham323/LeetCode-DSA/tree/master/3379-transformed-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -36,4 +37,8 @@ This repostiory consist practise DSA questions.
 |  |
 | ------- |
 | [0136-single-number](https://github.com/soham323/LeetCode-DSA/tree/master/0136-single-number) |
+## Simulation
+|  |
+| ------- |
+| [3379-transformed-array](https://github.com/soham323/LeetCode-DSA/tree/master/3379-transformed-array) |
 <!---LeetCode Topics End-->
