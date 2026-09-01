@@ -29,6 +29,7 @@ This repostiory consist practise DSA questions.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/soham323/LeetCode-DSA/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/soham323/LeetCode-DSA/tree/master/0020-valid-parentheses) |
 ## Trie
 |  |
 | ------- |
@@ -41,4 +42,12 @@ This repostiory consist practise DSA questions.
 |  |
 | ------- |
 | [3379-transformed-array](https://github.com/soham323/LeetCode-DSA/tree/master/3379-transformed-array) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/soham323/LeetCode-DSA/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/soham323/LeetCode-DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
