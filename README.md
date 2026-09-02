@@ -15,6 +15,7 @@ This repostiory consist practise DSA questions.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/soham323/LeetCode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/soham323/LeetCode-DSA/tree/master/0027-remove-element) |
 | [0136-single-number](https://github.com/soham323/LeetCode-DSA/tree/master/0136-single-number) |
+| [0682-baseball-game](https://github.com/soham323/LeetCode-DSA/tree/master/0682-baseball-game) |
 | [3379-transformed-array](https://github.com/soham323/LeetCode-DSA/tree/master/3379-transformed-array) |
 ## Two Pointers
 |  |
@@ -41,11 +42,13 @@ This repostiory consist practise DSA questions.
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/soham323/LeetCode-DSA/tree/master/0682-baseball-game) |
 | [3379-transformed-array](https://github.com/soham323/LeetCode-DSA/tree/master/3379-transformed-array) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/soham323/LeetCode-DSA/tree/master/0020-valid-parentheses) |
+| [0682-baseball-game](https://github.com/soham323/LeetCode-DSA/tree/master/0682-baseball-game) |
 ## Bracket Sequences
 |  |
 | ------- |
