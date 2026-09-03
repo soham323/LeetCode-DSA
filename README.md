@@ -31,6 +31,7 @@ This repostiory consist practise DSA questions.
 | ------- |
 | [0014-longest-common-prefix](https://github.com/soham323/LeetCode-DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/soham323/LeetCode-DSA/tree/master/0020-valid-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/soham323/LeetCode-DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Trie
 |  |
 | ------- |
@@ -49,6 +50,7 @@ This repostiory consist practise DSA questions.
 | ------- |
 | [0020-valid-parentheses](https://github.com/soham323/LeetCode-DSA/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/soham323/LeetCode-DSA/tree/master/0682-baseball-game) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/soham323/LeetCode-DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bracket Sequences
 |  |
 | ------- |
